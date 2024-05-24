@@ -79,7 +79,7 @@ def reiniciar_tabuleiro():
 def imprime_instrucoes():
     print("\n################### JOGO DA VELHA ###################")
     print("\nSiga as instruções abaixo\n")
-    print("Você vai jogar contra uma máquina")
+    print("Você vai jogar contra player 2")
     print("Ganha quem conseguir uma sequência de X ou O, em linha ou na diagonal")
     print("Veja abaixo como funciona o tabuleiro\n")
     print("1 | 2 | 3")
@@ -92,7 +92,7 @@ def imprime_instrucoes():
     print("1 | 2 | 3")
     print("4 | X | 6")
     print("7 | 8 | 9")
-    print("\nEm seguida, a máquina jogará\n")
+    print("\nEm seguida, o player 2 jogará\n")
     print("1 | 2 | O")
     print("4 | X | 6")
     print("7 | 8 | 9\n")
